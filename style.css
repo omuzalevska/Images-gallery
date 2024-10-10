@@ -1,0 +1,36 @@
+.main {
+    /* display: flex;
+    padding: 50px;
+    /* box-sizing: border-box; */
+    justify-content: center; 
+
+  }
+
+  .block__row{
+border: 20px solid yellowgreen;
+display: flex;
+justify-content: flex-start;
+/* flex-wrap: wrap; */
+/* width: 100%; */
+/* max-width: 1800px; */
+
+  }
+
+  .block__column{
+border: 20px solid rgb(174, 18, 18);
+display: flex;
+justify-content: flex-start;
+/* flex-wrap: wrap; */
+flex-basis: 100px;
+flex-grow: 1;
+flex-shrink: 0;
+/* width: 20%; */
+
+  }
+
+
+.footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+  }
