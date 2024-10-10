@@ -1,5 +1,11 @@
+h1 {
+  color: darkgreen; 
+  font-size: 72px; 
+  font-weight: bold;
+  text-align: center;
+}
+
 .block__row {
-  border: 20px solid yellowgreen;
   display: flex;
   justify-content: center;
   gap: 10px;
